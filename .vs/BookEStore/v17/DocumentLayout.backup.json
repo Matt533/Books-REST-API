@@ -1,0 +1,285 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Matej\\Desktop\\.NET\\BookEStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68FC8568-DA2F-4E86-BD37-62D4079B1C83}|BookEStore\\BookEStore.csproj|c:\\users\\matej\\desktop\\.net\\bookestore\\bookestore\\domain layer\\dtos\\bookdtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68FC8568-DA2F-4E86-BD37-62D4079B1C83}|BookEStore\\BookEStore.csproj|solutionrelative:bookestore\\domain layer\\dtos\\bookdtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FC8568-DA2F-4E86-BD37-62D4079B1C83}|BookEStore\\BookEStore.csproj|c:\\users\\matej\\desktop\\.net\\bookestore\\bookestore\\domain layer\\dtos\\authordtos\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68FC8568-DA2F-4E86-BD37-62D4079B1C83}|BookEStore\\BookEStore.csproj|solutionrelative:bookestore\\domain layer\\dtos\\authordtos\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FC8568-DA2F-4E86-BD37-62D4079B1C83}|BookEStore\\BookEStore.csproj|c:\\users\\matej\\desktop\\.net\\bookestore\\bookestore\\domain layer\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68FC8568-DA2F-4E86-BD37-62D4079B1C83}|BookEStore\\BookEStore.csproj|solutionrelative:bookestore\\domain layer\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FC8568-DA2F-4E86-BD37-62D4079B1C83}|BookEStore\\BookEStore.csproj|c:\\users\\matej\\desktop\\.net\\bookestore\\bookestore\\domain layer\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68FC8568-DA2F-4E86-BD37-62D4079B1C83}|BookEStore\\BookEStore.csproj|solutionrelative:bookestore\\domain layer\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FC8568-DA2F-4E86-BD37-62D4079B1C83}|BookEStore\\BookEStore.csproj|c:\\users\\matej\\desktop\\.net\\bookestore\\bookestore\\domain layer\\dtos\\bookdtos\\createbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68FC8568-DA2F-4E86-BD37-62D4079B1C83}|BookEStore\\BookEStore.csproj|solutionrelative:bookestore\\domain layer\\dtos\\bookdtos\\createbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FC8568-DA2F-4E86-BD37-62D4079B1C83}|BookEStore\\BookEStore.csproj|c:\\users\\matej\\desktop\\.net\\bookestore\\bookestore\\domain layer\\dtos\\authordtos\\createauthordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68FC8568-DA2F-4E86-BD37-62D4079B1C83}|BookEStore\\BookEStore.csproj|solutionrelative:bookestore\\domain layer\\dtos\\authordtos\\createauthordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FC8568-DA2F-4E86-BD37-62D4079B1C83}|BookEStore\\BookEStore.csproj|c:\\users\\matej\\desktop\\.net\\bookestore\\bookestore\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{68FC8568-DA2F-4E86-BD37-62D4079B1C83}|BookEStore\\BookEStore.csproj|solutionrelative:bookestore\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FC8568-DA2F-4E86-BD37-62D4079B1C83}|BookEStore\\BookEStore.csproj|c:\\users\\matej\\desktop\\.net\\bookestore\\bookestore\\presentational layer\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68FC8568-DA2F-4E86-BD37-62D4079B1C83}|BookEStore\\BookEStore.csproj|solutionrelative:bookestore\\presentational layer\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FC8568-DA2F-4E86-BD37-62D4079B1C83}|BookEStore\\BookEStore.csproj|c:\\users\\matej\\desktop\\.net\\bookestore\\bookestore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{68FC8568-DA2F-4E86-BD37-62D4079B1C83}|BookEStore\\BookEStore.csproj|solutionrelative:bookestore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FC8568-DA2F-4E86-BD37-62D4079B1C83}|BookEStore\\BookEStore.csproj|c:\\users\\matej\\desktop\\.net\\bookestore\\bookestore\\infrastructure layer\\exceptions\\authornotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68FC8568-DA2F-4E86-BD37-62D4079B1C83}|BookEStore\\BookEStore.csproj|solutionrelative:bookestore\\infrastructure layer\\exceptions\\authornotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FC8568-DA2F-4E86-BD37-62D4079B1C83}|BookEStore\\BookEStore.csproj|c:\\users\\matej\\desktop\\.net\\bookestore\\bookestore\\app layer\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68FC8568-DA2F-4E86-BD37-62D4079B1C83}|BookEStore\\BookEStore.csproj|solutionrelative:bookestore\\app layer\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FC8568-DA2F-4E86-BD37-62D4079B1C83}|BookEStore\\BookEStore.csproj|c:\\users\\matej\\desktop\\.net\\bookestore\\bookestore\\data layer\\appdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68FC8568-DA2F-4E86-BD37-62D4079B1C83}|BookEStore\\BookEStore.csproj|solutionrelative:bookestore\\data layer\\appdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FC8568-DA2F-4E86-BD37-62D4079B1C83}|BookEStore\\BookEStore.csproj|c:\\users\\matej\\desktop\\.net\\bookestore\\bookestore\\data layer\\repositories\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68FC8568-DA2F-4E86-BD37-62D4079B1C83}|BookEStore\\BookEStore.csproj|solutionrelative:bookestore\\data layer\\repositories\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FC8568-DA2F-4E86-BD37-62D4079B1C83}|BookEStore\\BookEStore.csproj|c:\\users\\matej\\desktop\\.net\\bookestore\\bookestore\\presentational layer\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68FC8568-DA2F-4E86-BD37-62D4079B1C83}|BookEStore\\BookEStore.csproj|solutionrelative:bookestore\\presentational layer\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FC8568-DA2F-4E86-BD37-62D4079B1C83}|BookEStore\\BookEStore.csproj|c:\\users\\matej\\desktop\\.net\\bookestore\\bookestore\\infrastructure layer\\mappers\\authorsmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68FC8568-DA2F-4E86-BD37-62D4079B1C83}|BookEStore\\BookEStore.csproj|solutionrelative:bookestore\\infrastructure layer\\mappers\\authorsmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FC8568-DA2F-4E86-BD37-62D4079B1C83}|BookEStore\\BookEStore.csproj|c:\\users\\matej\\desktop\\.net\\bookestore\\bookestore\\domain layer\\dtos\\authordtos\\updateauthordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68FC8568-DA2F-4E86-BD37-62D4079B1C83}|BookEStore\\BookEStore.csproj|solutionrelative:bookestore\\domain layer\\dtos\\authordtos\\updateauthordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookDto.cs",
+              "DocumentMoniker": "C:\\Users\\Matej\\Desktop\\.NET\\BookEStore\\BookEStore\\Domain Layer\\DTOs\\BookDtos\\BookDto.cs",
+              "RelativeDocumentMoniker": "BookEStore\\Domain Layer\\DTOs\\BookDtos\\BookDto.cs",
+              "ToolTip": "C:\\Users\\Matej\\Desktop\\.NET\\BookEStore\\BookEStore\\Domain Layer\\DTOs\\BookDtos\\BookDto.cs",
+              "RelativeToolTip": "BookEStore\\Domain Layer\\DTOs\\BookDtos\\BookDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T15:47:50.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Matej\\Desktop\\.NET\\BookEStore\\BookEStore\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BookEStore\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Matej\\Desktop\\.NET\\BookEStore\\BookEStore\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BookEStore\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-30T13:29:09.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\Matej\\Desktop\\.NET\\BookEStore\\BookEStore\\App Layer\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "BookEStore\\App Layer\\Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\Matej\\Desktop\\.NET\\BookEStore\\BookEStore\\App Layer\\Services\\BookService.cs",
+              "RelativeToolTip": "BookEStore\\App Layer\\Services\\BookService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T18:14:41.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\Matej\\Desktop\\.NET\\BookEStore\\BookEStore\\Presentational Layer\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "BookEStore\\Presentational Layer\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\Matej\\Desktop\\.NET\\BookEStore\\BookEStore\\Presentational Layer\\Controllers\\BookController.cs",
+              "RelativeToolTip": "BookEStore\\Presentational Layer\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T15:19:55.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Matej\\Desktop\\.NET\\BookEStore\\BookEStore\\Data Layer\\AppDataContext.cs",
+              "RelativeDocumentMoniker": "BookEStore\\Data Layer\\AppDataContext.cs",
+              "ToolTip": "C:\\Users\\Matej\\Desktop\\.NET\\BookEStore\\BookEStore\\Data Layer\\AppDataContext.cs",
+              "RelativeToolTip": "BookEStore\\Data Layer\\AppDataContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T15:19:36.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthorsMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Matej\\Desktop\\.NET\\BookEStore\\BookEStore\\Infrastructure Layer\\Mappers\\AuthorsMapper.cs",
+              "RelativeDocumentMoniker": "BookEStore\\Infrastructure Layer\\Mappers\\AuthorsMapper.cs",
+              "ToolTip": "C:\\Users\\Matej\\Desktop\\.NET\\BookEStore\\BookEStore\\Infrastructure Layer\\Mappers\\AuthorsMapper.cs",
+              "RelativeToolTip": "BookEStore\\Infrastructure Layer\\Mappers\\AuthorsMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T15:17:59.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateAuthorDto.cs",
+              "DocumentMoniker": "C:\\Users\\Matej\\Desktop\\.NET\\BookEStore\\BookEStore\\Domain Layer\\DTOs\\AuthorDtos\\CreateAuthorDto.cs",
+              "RelativeDocumentMoniker": "BookEStore\\Domain Layer\\DTOs\\AuthorDtos\\CreateAuthorDto.cs",
+              "ToolTip": "C:\\Users\\Matej\\Desktop\\.NET\\BookEStore\\BookEStore\\Domain Layer\\DTOs\\AuthorDtos\\CreateAuthorDto.cs",
+              "RelativeToolTip": "BookEStore\\Domain Layer\\DTOs\\AuthorDtos\\CreateAuthorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T15:17:39.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateBookDto.cs",
+              "DocumentMoniker": "C:\\Users\\Matej\\Desktop\\.NET\\BookEStore\\BookEStore\\Domain Layer\\DTOs\\BookDtos\\CreateBookDto.cs",
+              "RelativeDocumentMoniker": "BookEStore\\Domain Layer\\DTOs\\BookDtos\\CreateBookDto.cs",
+              "ToolTip": "C:\\Users\\Matej\\Desktop\\.NET\\BookEStore\\BookEStore\\Domain Layer\\DTOs\\BookDtos\\CreateBookDto.cs",
+              "RelativeToolTip": "BookEStore\\Domain Layer\\DTOs\\BookDtos\\CreateBookDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T14:14:41.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Matej\\Desktop\\.NET\\BookEStore\\BookEStore\\Domain Layer\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "BookEStore\\Domain Layer\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Matej\\Desktop\\.NET\\BookEStore\\BookEStore\\Domain Layer\\Models\\Book.cs",
+              "RelativeToolTip": "BookEStore\\Domain Layer\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T14:14:38.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\Matej\\Desktop\\.NET\\BookEStore\\BookEStore\\Domain Layer\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "BookEStore\\Domain Layer\\Models\\Author.cs",
+              "ToolTip": "C:\\Users\\Matej\\Desktop\\.NET\\BookEStore\\BookEStore\\Domain Layer\\Models\\Author.cs",
+              "RelativeToolTip": "BookEStore\\Domain Layer\\Models\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T15:17:15.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthorDto.cs",
+              "DocumentMoniker": "C:\\Users\\Matej\\Desktop\\.NET\\BookEStore\\BookEStore\\Domain Layer\\DTOs\\AuthorDtos\\AuthorDto.cs",
+              "RelativeDocumentMoniker": "BookEStore\\Domain Layer\\DTOs\\AuthorDtos\\AuthorDto.cs",
+              "ToolTip": "C:\\Users\\Matej\\Desktop\\.NET\\BookEStore\\BookEStore\\Domain Layer\\DTOs\\AuthorDtos\\AuthorDto.cs",
+              "RelativeToolTip": "BookEStore\\Domain Layer\\DTOs\\AuthorDtos\\AuthorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T15:17:33.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Matej\\Desktop\\.NET\\BookEStore\\BookEStore\\Data Layer\\Repositories\\AuthorRepository.cs",
+              "RelativeDocumentMoniker": "BookEStore\\Data Layer\\Repositories\\AuthorRepository.cs",
+              "ToolTip": "C:\\Users\\Matej\\Desktop\\.NET\\BookEStore\\BookEStore\\Data Layer\\Repositories\\AuthorRepository.cs",
+              "RelativeToolTip": "BookEStore\\Data Layer\\Repositories\\AuthorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T15:05:10.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthorNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Matej\\Desktop\\.NET\\BookEStore\\BookEStore\\Infrastructure Layer\\Exceptions\\AuthorNotFoundException.cs",
+              "RelativeDocumentMoniker": "BookEStore\\Infrastructure Layer\\Exceptions\\AuthorNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Matej\\Desktop\\.NET\\BookEStore\\BookEStore\\Infrastructure Layer\\Exceptions\\AuthorNotFoundException.cs",
+              "RelativeToolTip": "BookEStore\\Infrastructure Layer\\Exceptions\\AuthorNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T15:05:54.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Matej\\Desktop\\.NET\\BookEStore\\BookEStore\\appsettings.json",
+              "RelativeDocumentMoniker": "BookEStore\\appsettings.json",
+              "ToolTip": "C:\\Users\\Matej\\Desktop\\.NET\\BookEStore\\BookEStore\\appsettings.json",
+              "RelativeToolTip": "BookEStore\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-30T13:29:05.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UpdateAuthorDto.cs",
+              "DocumentMoniker": "C:\\Users\\Matej\\Desktop\\.NET\\BookEStore\\BookEStore\\Domain Layer\\DTOs\\AuthorDtos\\UpdateAuthorDto.cs",
+              "RelativeDocumentMoniker": "BookEStore\\Domain Layer\\DTOs\\AuthorDtos\\UpdateAuthorDto.cs",
+              "ToolTip": "C:\\Users\\Matej\\Desktop\\.NET\\BookEStore\\BookEStore\\Domain Layer\\DTOs\\AuthorDtos\\UpdateAuthorDto.cs",
+              "RelativeToolTip": "BookEStore\\Domain Layer\\DTOs\\AuthorDtos\\UpdateAuthorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T15:17:44.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthorController.cs",
+              "DocumentMoniker": "C:\\Users\\Matej\\Desktop\\.NET\\BookEStore\\BookEStore\\Presentational Layer\\Controllers\\AuthorController.cs",
+              "RelativeDocumentMoniker": "BookEStore\\Presentational Layer\\Controllers\\AuthorController.cs",
+              "ToolTip": "C:\\Users\\Matej\\Desktop\\.NET\\BookEStore\\BookEStore\\Presentational Layer\\Controllers\\AuthorController.cs",
+              "RelativeToolTip": "BookEStore\\Presentational Layer\\Controllers\\AuthorController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T15:18:33.49Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

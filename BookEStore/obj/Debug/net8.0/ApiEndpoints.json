@@ -1,0 +1,181 @@
+[
+  {
+    "ContainingType": "BookEStore.Presentational_Layer.Controllers.AuthorController",
+    "Method": "GetAllAuthors",
+    "RelativePath": "api/Author",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BookEStore.Presentational_Layer.Controllers.AuthorController",
+    "Method": "CreateAuthor",
+    "RelativePath": "api/Author",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createAuthorDto",
+        "Type": "BookEStore.Domain_Layer.DTOs.CreateAuthorDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BookEStore.Presentational_Layer.Controllers.AuthorController",
+    "Method": "GetById",
+    "RelativePath": "api/Author/{Id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BookEStore.Presentational_Layer.Controllers.AuthorController",
+    "Method": "UpdateAuthor",
+    "RelativePath": "api/Author/{Id}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updateAuthorDto",
+        "Type": "BookEStore.Domain_Layer.DTOs.UpdateAuthorDto",
+        "IsRequired": true
+      },
+      {
+        "Name": "Id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BookEStore.Presentational_Layer.Controllers.AuthorController",
+    "Method": "DeleteAuthor",
+    "RelativePath": "api/Author/{Id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BookEStore.Presentational_Layer.Controllers.BookController",
+    "Method": "GetAllBooks",
+    "RelativePath": "api/Book",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BookEStore.Presentational_Layer.Controllers.BookController",
+    "Method": "CreateBook",
+    "RelativePath": "api/Book",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createBookDto",
+        "Type": "BookEStore.Domain_Layer.DTOs.CreateBookDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BookEStore.Presentational_Layer.Controllers.BookController",
+    "Method": "GetBookById",
+    "RelativePath": "api/Book/{Id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BookEStore.Presentational_Layer.Controllers.BookController",
+    "Method": "UpdateBook",
+    "RelativePath": "api/Book/{Id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "updateBookDto",
+        "Type": "BookEStore.Domain_Layer.DTOs.UpdateBookDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BookEStore.Presentational_Layer.Controllers.BookController",
+    "Method": "DeleteBook",
+    "RelativePath": "api/Book/{Id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BookEStore.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[BookEStore.WeatherForecast, BookEStore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]
